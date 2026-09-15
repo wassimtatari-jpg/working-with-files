@@ -1,0 +1,7 @@
+user_notes=input("write your note :")
+file=open("notes.txt","a+")
+file.write(user_notes+"\n")
+file.seek(0)
+content=file.read()
+print(content)
+file.close()

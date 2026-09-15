@@ -1,0 +1,6 @@
+wassimC:\Users\HP\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/oop project 2026/usernotes.py"
+kawtarC:\Users\HP\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/oop project 2026/usernotes.py"
+C:\Users\HP\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/oop project 2026/usernotes.py"
+farah
+salem
+yassmin

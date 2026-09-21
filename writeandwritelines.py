@@ -1,0 +1,14 @@
+file=open("students.txt","w",encoding="utf-8")
+file.write("محمد\n")
+file.write("ياسين\n")
+file.write("فرح\n")
+names=["احمد\n","سارة\n","عمر\n"]
+file.writelines(names)
+file.close()
+file=open("students.txt","a",encoding="utf-8")
+file.write("ليان\n")
+file.close()
+file=open("students.txt","a",encoding="utf-8")
+names_2=["نور\n",'كريم\n']
+file.writelines(names_2)
+file.close()
